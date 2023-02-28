@@ -13,7 +13,7 @@
 - [InfluxDB] - database usado para armazenar os resultados dos testes
 - [Grafana] - dashboard para apresentar o resultado dos diferentes tipos de teste de performance
 
-## 🚀 Tipos de teste
+## 📌 Tipos de teste
 <br>
 <h1 align="center">
     <img src="https://k6.io/docs/static/e45e3f092ab0445aa3da987a69ddad85/d9937/test-types.png">
