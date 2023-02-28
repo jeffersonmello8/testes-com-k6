@@ -21,7 +21,13 @@
 
 ### Smoke
 
-Os testes de fumaça verificam se o seu sistema pode lidar com carga mínima, sem problemas.
+Um teste de fumaça é um teste configurado para carga mínima.
+
+Cada vez que você escreve um novo script de teste, é uma boa ideia fazer uma fumaça para testar primeiro, o que ajuda você a:
+
+- Verifique se seu script de teste não contém erros.
+
+- Verifique se o seu sistema não apresenta nenhum erro quando está sob carga mínima.
 
 ### Carga
 
