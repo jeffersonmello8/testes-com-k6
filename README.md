@@ -1,7 +1,7 @@
 # Usando K6 para testes de performance de um serviço
 
 <h1 align="left">
-    <img src=".github/K6-logo.svg" width="300px">
+    <img src=".github/images/K6-logo.svg" width="300px">
 </h1>
 
 ## 🚀 Tecnologias
