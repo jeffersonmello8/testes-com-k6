@@ -1,4 +1,4 @@
-# Usando K6 para testes de performance de um serviço
+# Usando K6 para testes de performance de serviços
 
 <h1 align="left">
     <img src=".github/images/K6-logo.svg" width="300px">
