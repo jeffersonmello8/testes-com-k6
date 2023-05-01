@@ -7,7 +7,7 @@
 ## 🚀 Tecnologias
 
 - [Node.js] - plataforma usada no desenvolvimento da API a ser testada
-- [K6] - framework usado para realizar os testes de performance
+- [K6](https://k6.io/docs/) - framework usado para realizar os testes de performance
 - [Express] - framework usado para construir a API a ser testada
 - [MariaDB] - database usado para armazenar os dados da API
 - [InfluxDB] - database usado para armazenar os resultados dos testes
@@ -41,6 +41,15 @@ Os testes de estresse e pico avaliam os limites e a estabilidade do seu sistema 
 
 Os testes de imersão avaliam a confiabilidade e o desempenho do seu sistema durante um longo período de tempo.
 
+### Teste de breakpoint
+
+O teste de breakpoint visa encontrar os limites do sistema. Razões pelas quais você pode querer saber os limites incluem:
+
+Para ajustar ou cuidar dos pontos fracos do sistema para realocar esses limites mais altos em níveis mais altos.
+Para ajudar a planejar as etapas de correção nesses casos e se preparar para quando o sistema se aproximar desses limites.
+Em outras palavras, saber onde e como um sistema começa a falhar ajuda a se preparar para tais limites.
+
+Um ponto de interrupção aumenta para números irrealisticamente altos. Esse teste geralmente precisa ser interrompido manualmente ou automaticamente quando os limites começam a falhar. Quando esses problemas aparecem, o sistema atingiu seus limite.
 
 ## 👨🏻‍💻 Como executar o projeto
 
